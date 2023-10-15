@@ -1,10 +1,10 @@
 # DSP-Project
 
-#Classify human electrocardiogram (ECG) Signals
-#MATLAB Project Introduction
+# Classify human electrocardiogram (ECG) Signals
+# MATLAB Project Introduction
 This project contains a MATLAB (.mlx) file that demonstrates various MATLAB functionalities. The file provides detailed explanations and code examples.
 
-#Project Contents
+# Project Contents
 MATLAB Project File (.mlx): Detailed code explanations and demonstrations.
 
 [Modified_physionet_data.txt]: required by PhysioNet's copying policy and provides the source attributions for the data as well as a description of the preprocessing steps applied to each ECG recording.
